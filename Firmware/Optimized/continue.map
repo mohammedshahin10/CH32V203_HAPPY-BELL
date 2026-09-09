@@ -1,0 +1,501 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_divdi3.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (__divdi3)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_udivdi3.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (__udivdi3)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(addsf3.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (__addsf3)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(divsf3.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (__divsf3)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(eqsf2.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans1.ltrans.o (__eqsf2)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(gesf2.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (__gesf2)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(lesf2.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (__lesf2)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(mulsf3.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (__mulsf3)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(subsf3.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (__subsf3)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(fixsfsi.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (__fixsfsi)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatsisf.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (__floatsisf)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsisf.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (__floatunsisf)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(save-restore.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (__riscv_save_12)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clz.o)
+                              c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_divdi3.o) (__clz_tab)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clzsi2.o)
+                              c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(addsf3.o) (__clzsi2)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memcmp.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (memcmp)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memcpy.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (memcpy)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memmove.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (memmove)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memset.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (memset)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strchr.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (strchr)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strcmp.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (strcmp)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strlen.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (strlen)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strncpy.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (strncpy)
+c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strrchr.o)
+                              C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o (strrchr)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans1.ltrans.o
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_divdi3.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_divdi3.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_divdi3.o)
+ .text.__divdi3
+                0x0000000000000000      0x3d4 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_divdi3.o)
+ .eh_frame      0x0000000000000000       0x28 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_divdi3.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_udivdi3.o)
+ .eh_frame      0x0000000000000000       0x28 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_udivdi3.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(addsf3.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(addsf3.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(addsf3.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(divsf3.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(divsf3.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(divsf3.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(eqsf2.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(eqsf2.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(eqsf2.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(gesf2.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(gesf2.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(gesf2.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(lesf2.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(lesf2.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(lesf2.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(mulsf3.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(subsf3.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(subsf3.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(subsf3.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(fixsfsi.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(fixsfsi.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(fixsfsi.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatsisf.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatsisf.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsisf.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsisf.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsisf.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(save-restore.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(save-restore.o)
+ .eh_frame      0x0000000000000000       0xf8 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(save-restore.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clz.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clzsi2.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memcmp.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memcmp.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strchr.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strchr.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strchr.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strcmp.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strncpy.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strncpy.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strncpy.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strrchr.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strrchr.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strrchr.o)
+ .text          0x0000000000000000        0x0 C:\OfficeWorks\ch32v203_firmware\Firmware\obj_continue\startup.o
+ .data          0x0000000000000000        0x0 C:\OfficeWorks\ch32v203_firmware\Firmware\obj_continue\startup.o
+ .bss           0x0000000000000000        0x0 C:\OfficeWorks\ch32v203_firmware\Firmware\obj_continue\startup.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x000000000000f800 xr
+RAM              0x0000000020000000 0x0000000000005000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+LOAD C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans1.ltrans.o
+LOAD C:\OfficeWorks\ch32v203_firmware\Firmware\obj_continue\startup.o
+LOAD c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libm.a
+LOAD c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a
+LOAD c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a
+LOAD c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a
+START GROUP
+LOAD c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a
+LOAD c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a
+LOAD c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a
+LOAD c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a
+LOAD c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libnosys.a
+END GROUP
+                0x0000000000000800                __stack_size = 0x800
+                [!provide]                        PROVIDE (_stack_size = __stack_size)
+
+.init           0x0000000000000000        0x4
+                0x0000000000000000                _sinit = .
+                0x0000000000000000                . = ALIGN (0x4)
+ *(SORT_NONE(.init))
+ .init          0x0000000000000000        0x4 C:\OfficeWorks\ch32v203_firmware\Firmware\obj_continue\startup.o
+                0x0000000000000000                _start
+                0x0000000000000004                . = ALIGN (0x4)
+                0x0000000000000004                _einit = .
+
+.vector         0x0000000000000004       0xfc
+ *(.vector)
+ .vector        0x0000000000000004       0xfc C:\OfficeWorks\ch32v203_firmware\Firmware\obj_continue\startup.o
+                0x0000000000000100                . = ALIGN (0x40)
+
+.text           0x0000000000000100     0xee98
+                0x0000000000000100                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000000000100     0x801e C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+                0x0000000000007fbe                SystemInit
+                0x0000000000008066                HardFault_Handler
+                0x0000000000008090                NMI_Handler
+                0x0000000000008092                TIM3_IRQHandler
+                0x00000000000080c4                _sbrk
+                0x00000000000080f2                _write
+ .text          0x000000000000811e     0x1084 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans1.ltrans.o
+                0x00000000000082fe                previous_date.part.6.lto_priv.81
+                0x000000000000834a                day_number.lto_priv.82
+                0x00000000000083aa                astro_day.lto_priv.74
+                0x00000000000083e4                norm_hour.lto_priv.78
+                0x000000000000842e                change_time.isra.5.lto_priv.77
+                0x00000000000084e4                norm360.lto_priv.80
+                0x000000000000868a                sun_event.isra.2.lto_priv.73
+                0x0000000000008b3a                sidereal_sun.lto_priv.75
+                0x0000000000008f88                moon_altitude.isra.3.lto_priv.79
+                0x00000000000090f8                sidereal_moon.lto_priv.76
+                0x000000000000915a                nakshatra_at.lto_priv.72
+                0x0000000000009174                tithi_at.lto_priv.71
+ .text          0x00000000000091a2       0x60 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(save-restore.o)
+                0x00000000000091a2                __riscv_save_12
+                0x00000000000091aa                __riscv_save_9
+                0x00000000000091aa                __riscv_save_11
+                0x00000000000091aa                __riscv_save_10
+                0x00000000000091aa                __riscv_save_8
+                0x00000000000091b8                __riscv_save_4
+                0x00000000000091b8                __riscv_save_6
+                0x00000000000091b8                __riscv_save_5
+                0x00000000000091b8                __riscv_save_7
+                0x00000000000091d2                __riscv_save_3
+                0x00000000000091d2                __riscv_save_2
+                0x00000000000091d2                __riscv_save_1
+                0x00000000000091d2                __riscv_save_0
+                0x00000000000091de                __riscv_restore_12
+                0x00000000000091e2                __riscv_restore_11
+                0x00000000000091e2                __riscv_restore_9
+                0x00000000000091e2                __riscv_restore_10
+                0x00000000000091e2                __riscv_restore_8
+                0x00000000000091ec                __riscv_restore_5
+                0x00000000000091ec                __riscv_restore_7
+                0x00000000000091ec                __riscv_restore_6
+                0x00000000000091ec                __riscv_restore_4
+                0x00000000000091f6                __riscv_restore_3
+                0x00000000000091f6                __riscv_restore_0
+                0x00000000000091f6                __riscv_restore_2
+                0x00000000000091f6                __riscv_restore_1
+ .text          0x0000000000009202       0xa8 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memset.o)
+                0x0000000000009202                memset
+ .text          0x00000000000092aa      0x11a c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strcmp.o)
+                0x00000000000092aa                strcmp
+ *(.text.*)
+ .text.startup  0x00000000000093c4     0x1036 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+                0x00000000000093c4                main
+ .text.__udivdi3
+                0x000000000000a3fa      0x392 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_udivdi3.o)
+                0x000000000000a3fa                __udivdi3
+ .text.__addsf3
+                0x000000000000a78c      0x36a c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(addsf3.o)
+                0x000000000000a78c                __addsf3
+ .text.__divsf3
+                0x000000000000aaf6      0x2b2 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(divsf3.o)
+                0x000000000000aaf6                __divsf3
+ .text.__eqsf2  0x000000000000ada8       0x5c c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(eqsf2.o)
+                0x000000000000ada8                __eqsf2
+                0x000000000000ada8                __nesf2
+ .text.__gesf2  0x000000000000ae04       0x86 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(gesf2.o)
+                0x000000000000ae04                __gesf2
+                0x000000000000ae04                __gtsf2
+ .text.__lesf2  0x000000000000ae8a       0x8c c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(lesf2.o)
+                0x000000000000ae8a                __ltsf2
+                0x000000000000ae8a                __lesf2
+ .text.__mulsf3
+                0x000000000000af16      0x290 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(mulsf3.o)
+                0x000000000000af16                __mulsf3
+ .text.__subsf3
+                0x000000000000b1a6      0x388 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(subsf3.o)
+                0x000000000000b1a6                __subsf3
+ .text.__fixsfsi
+                0x000000000000b52e       0x62 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(fixsfsi.o)
+                0x000000000000b52e                __fixsfsi
+ .text.__floatsisf
+                0x000000000000b590       0xc6 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatsisf.o)
+                0x000000000000b590                __floatsisf
+ .text.__floatunsisf
+                0x000000000000b656       0xce c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsisf.o)
+                0x000000000000b656                __floatunsisf
+ .text.__clzsi2
+                0x000000000000b724       0x6e c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clzsi2.o)
+                0x000000000000b724                __clzsi2
+ .text.memcmp   0x000000000000b792       0x24 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memcmp.o)
+                0x000000000000b792                memcmp
+ .text.memcpy   0x000000000000b7b6       0xb2 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memcpy.o)
+                0x000000000000b7b6                memcpy
+ .text.memmove  0x000000000000b868       0x46 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memmove.o)
+                0x000000000000b868                memmove
+ .text.strchr   0x000000000000b8ae       0x18 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strchr.o)
+                0x000000000000b8ae                strchr
+ .text.strlen   0x000000000000b8c6       0x12 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strlen.o)
+                0x000000000000b8c6                strlen
+ .text.strncpy  0x000000000000b8d8       0x24 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strncpy.o)
+                0x000000000000b8d8                strncpy
+ .text.strrchr  0x000000000000b8fc       0x32 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strrchr.o)
+                0x000000000000b8fc                strrchr
+ .text.vector_handler
+                0x000000000000b92e        0x2 C:\OfficeWorks\ch32v203_firmware\Firmware\obj_continue\startup.o
+                0x000000000000b92e                EXTI2_IRQHandler
+                0x000000000000b92e                TIM1_CC_IRQHandler
+                0x000000000000b92e                SysTick_Handler
+                0x000000000000b92e                PVD_IRQHandler
+                0x000000000000b92e                EXTI3_IRQHandler
+                0x000000000000b92e                USBFS_IRQHandler
+                0x000000000000b92e                EXTI0_IRQHandler
+                0x000000000000b92e                I2C2_EV_IRQHandler
+                0x000000000000b92e                ADC1_2_IRQHandler
+                0x000000000000b92e                Break_Point_Handler
+                0x000000000000b92e                SPI1_IRQHandler
+                0x000000000000b92e                TAMPER_IRQHandler
+                0x000000000000b92e                Ecall_M_Mode_Handler
+                0x000000000000b92e                DMA1_Channel4_IRQHandler
+                0x000000000000b92e                USART3_IRQHandler
+                0x000000000000b92e                RTC_IRQHandler
+                0x000000000000b92e                DMA1_Channel7_IRQHandler
+                0x000000000000b92e                CAN1_RX1_IRQHandler
+                0x000000000000b92e                TIM4_IRQHandler
+                0x000000000000b92e                I2C1_EV_IRQHandler
+                0x000000000000b92e                DMA1_Channel6_IRQHandler
+                0x000000000000b92e                UART4_IRQHandler
+                0x000000000000b92e                RCC_IRQHandler
+                0x000000000000b92e                TIM1_TRG_COM_IRQHandler
+                0x000000000000b92e                DMA1_Channel1_IRQHandler
+                0x000000000000b92e                EXTI15_10_IRQHandler
+                0x000000000000b92e                DMA1_Channel8_IRQHandler
+                0x000000000000b92e                EXTI9_5_IRQHandler
+                0x000000000000b92e                SPI2_IRQHandler
+                0x000000000000b92e                DMA1_Channel5_IRQHandler
+                0x000000000000b92e                EXTI4_IRQHandler
+                0x000000000000b92e                USB_LP_CAN1_RX0_IRQHandler
+                0x000000000000b92e                USB_HP_CAN1_TX_IRQHandler
+                0x000000000000b92e                DMA1_Channel3_IRQHandler
+                0x000000000000b92e                TIM1_UP_IRQHandler
+                0x000000000000b92e                WWDG_IRQHandler
+                0x000000000000b92e                Ecall_U_Mode_Handler
+                0x000000000000b92e                TIM2_IRQHandler
+                0x000000000000b92e                SW_Handler
+                0x000000000000b92e                TIM1_BRK_IRQHandler
+                0x000000000000b92e                EXTI1_IRQHandler
+                0x000000000000b92e                RTCAlarm_IRQHandler
+                0x000000000000b92e                USART2_IRQHandler
+                0x000000000000b92e                I2C2_ER_IRQHandler
+                0x000000000000b92e                DMA1_Channel2_IRQHandler
+                0x000000000000b92e                CAN1_SCE_IRQHandler
+                0x000000000000b92e                FLASH_IRQHandler
+                0x000000000000b92e                USBFSWakeUp_IRQHandler
+                0x000000000000b92e                USART1_IRQHandler
+                0x000000000000b92e                I2C1_ER_IRQHandler
+                0x000000000000b92e                USBWakeUp_IRQHandler
+ .text.handle_reset
+                0x000000000000b930       0x8e C:\OfficeWorks\ch32v203_firmware\Firmware\obj_continue\startup.o
+                0x000000000000b930                handle_reset
+ *(.rodata)
+ *fill*         0x000000000000b9be        0x2 
+ .rodata        0x000000000000b9c0     0x2f0c C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+ .rodata        0x000000000000e8cc      0x114 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans1.ltrans.o
+ *(.rodata*)
+ .rodata.adc_prescaler
+                0x000000000000e9e0        0x4 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+ .rodata.ahb_prescaler
+                0x000000000000e9e4       0x10 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+ .rodata.apb_ahb_prescaler
+                0x000000000000e9f4       0x10 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+ .rodata.cst4   0x000000000000ea04       0x50 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+ .rodata.mp3_xor_key
+                0x000000000000ea54        0x4 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+ .rodata.quad_tab_max_bits
+                0x000000000000ea58        0x8 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+ .rodata.quad_tab_offset
+                0x000000000000ea60        0x8 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+ .rodata.setup_cursor
+                0x000000000000ea68        0x8 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+ .rodata.str1.4
+                0x000000000000ea70      0x20c C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+                                        0x20d (size before relaxing)
+ .rodata.cst4   0x000000000000ec7c      0x15c C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans1.ltrans.o
+                                        0x178 (size before relaxing)
+ .rodata.__divsf3
+                0x000000000000edd8       0x80 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(divsf3.o)
+ .rodata.__mulsf3
+                0x000000000000ee58       0x40 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(mulsf3.o)
+ .rodata.__clz_tab
+                0x000000000000ee98      0x100 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clz.o)
+                0x000000000000ee98                __clz_tab
+ *(.gnu.linkonce.t.*)
+                0x000000000000ef98                . = ALIGN (0x4)
+
+.rela.dyn       0x000000000000ef98        0x0
+ .rela.init     0x000000000000ef98        0x0 C:\OfficeWorks\ch32v203_firmware\Firmware\obj_continue\startup.o
+ .rela.vector   0x000000000000ef98        0x0 C:\OfficeWorks\ch32v203_firmware\Firmware\obj_continue\startup.o
+ .rela.text.handle_reset
+                0x000000000000ef98        0x0 C:\OfficeWorks\ch32v203_firmware\Firmware\obj_continue\startup.o
+ .rela.text     0x000000000000ef98        0x0 C:\OfficeWorks\ch32v203_firmware\Firmware\obj_continue\startup.o
+ .rela.data     0x000000000000ef98        0x0 C:\OfficeWorks\ch32v203_firmware\Firmware\obj_continue\startup.o
+
+.fini           0x000000000000ef98        0x0
+ *(SORT_NONE(.fini))
+                0x000000000000ef98                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (_eitcm = .)
+
+.preinit_array  0x000000000000ef98        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x000000000000ef98        0x0
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+                [!provide]                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x000000000000ef98        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.dalign         0x0000000020000000        0x0 load address 0x000000000000ef98
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                PROVIDE (_data_vma = .)
+
+.dlalign        0x000000000000ef98        0x0
+                0x000000000000ef98                . = ALIGN (0x4)
+                0x000000000000ef98                PROVIDE (_data_lma = .)
+
+.data           0x0000000020000000       0x10 load address 0x000000000000ef98
+ *(.gnu.linkonce.r.*)
+ *(.data .data.*)
+ .data          0x0000000020000000        0xc C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+ *(.gnu.linkonce.d.*)
+                0x0000000020000010                . = ALIGN (0x8)
+ *fill*         0x000000002000000c        0x4 
+                0x0000000020000810                PROVIDE (__global_pointer$ = (. + 0x800))
+ *(.sdata .sdata.*)
+ *(.sdata2.*)
+ *(.gnu.linkonce.s.*)
+                0x0000000020000010                . = ALIGN (0x8)
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata .srodata.*)
+                0x0000000020000010                . = ALIGN (0x4)
+                0x0000000020000010                PROVIDE (_edata = .)
+
+.noinit         0x0000000020000010        0x8 load address 0x000000000000efa8
+                0x0000000020000010                . = ALIGN (0x4)
+ *(.noinit .noinit.*)
+ .noinit        0x0000000020000010        0x8 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+                0x0000000020000018                . = ALIGN (0x4)
+
+.bss            0x0000000020000018     0x454c load address 0x000000000000efa8
+                0x0000000020000018                . = ALIGN (0x4)
+                0x0000000020000018                PROVIDE (_sbss = .)
+ *(.sbss*)
+ *(.gnu.linkonce.sb.*)
+ *(.bss*)
+ .bss           0x0000000020000018     0x454c C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+ *(.gnu.linkonce.b.*)
+ *(COMMON*)
+                0x0000000020004564                . = ALIGN (0x4)
+                0x0000000020004564                PROVIDE (_ebss = .)
+                0x0000000020004564                PROVIDE (_end = _ebss)
+                [!provide]                        PROVIDE (end = .)
+
+.stack          0x0000000020004800      0x800
+                0x0000000020004800                PROVIDE (_heap_end = .)
+                0x0000000020004800                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_susrstack = .)
+                0x0000000020005000                . = (. + __stack_size)
+ *fill*         0x0000000020004800      0x800 
+                0x0000000020005000                PROVIDE (_eusrstack = .)
+                [!provide]                        PROVIDE (__freertos_irq_stack_top = _eusrstack)
+OUTPUT(C:\OfficeWorks\ch32v203_firmware\Firmware\obj_continue\continue.elf elf32-littleriscv)
+
+.comment        0x0000000000000000       0x33
+ .comment       0x0000000000000000       0x33 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans0.ltrans.o
+                                         0x34 (size before relaxing)
+ .comment       0x0000000000000033       0x34 C:\Users\ELAKKI~1\AppData\Local\Temp\ccikdRyS.ltrans1.ltrans.o
+
+.debug_frame    0x0000000000000000      0x334
+ .debug_frame   0x0000000000000000       0x40 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(addsf3.o)
+ .debug_frame   0x0000000000000040       0x50 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(divsf3.o)
+ .debug_frame   0x0000000000000090       0x20 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(eqsf2.o)
+ .debug_frame   0x00000000000000b0       0x20 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(gesf2.o)
+ .debug_frame   0x00000000000000d0       0x20 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(lesf2.o)
+ .debug_frame   0x00000000000000f0       0x50 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(mulsf3.o)
+ .debug_frame   0x0000000000000140       0x3c c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(subsf3.o)
+ .debug_frame   0x000000000000017c       0x20 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(fixsfsi.o)
+ .debug_frame   0x000000000000019c       0x38 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatsisf.o)
+ .debug_frame   0x00000000000001d4       0x44 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsisf.o)
+ .debug_frame   0x0000000000000218       0x20 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clzsi2.o)
+ .debug_frame   0x0000000000000238       0x20 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000000258       0x20 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memcpy.o)
+ .debug_frame   0x0000000000000278       0x20 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000298       0x20 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strchr.o)
+ .debug_frame   0x00000000000002b8       0x20 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strlen.o)
+ .debug_frame   0x00000000000002d8       0x20 c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strncpy.o)
+ .debug_frame   0x00000000000002f8       0x3c c:/mounriver/mounriver_studio2/resources/app/resources/win32/components/wch/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a(lib_a-strrchr.o)
